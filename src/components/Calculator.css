@@ -1,0 +1,37 @@
+#entry {
+  grid-area: header;
+  background-color: #858694;
+}
+
+.number_container {
+  grid-area: main;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.operators {
+  grid-area: menu;
+}
+
+.operators div {
+  background-color: #f5913e;
+}
+
+.calculator_container {
+  width: 50%;
+  margin: 20vh auto;
+  display: grid;
+  grid-template-areas: 'header header header header' 'main main main menu';
+}
+
+.calculator_container * {
+  background-color: #e0e0e0;
+  height: 70px;
+  line-height: 70px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.zero {
+  grid-column: 1/3;
+}
