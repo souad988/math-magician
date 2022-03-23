@@ -1,0 +1,32 @@
+.home_container {
+  padding: 4vh 0;
+  box-shadow: 0 3px 6px #646669, -0 -3px 6px #646669;
+  border: 2px solid #fcc300;
+}
+
+.home_content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0% 5%;
+}
+
+.home_container h2 {
+  font-size: xx-large;
+  color: #fcc300;
+  text-align: center;
+}
+
+.home_container h3 {
+  color: black;
+}
+
+.home_quote_img {
+  margin-left: 2%;
+  border: 2px solid #fcc300;
+  width: 400px;
+  height: 200px;
+  background: url('../../public/math_home_quote.jpg');
+  background-size: cover;
+  box-shadow: 0 3px 6px #646669, -0 -3px 6px #646669;
+}
