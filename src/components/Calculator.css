@@ -1,6 +1,6 @@
 .entry {
   grid-area: header;
-  background-color: #858694;
+  background-color: #e8e8e8;
   display: flex;
   justify-content: flex-end;
   padding-right: 20px;
@@ -21,7 +21,7 @@
 }
 
 .operators button {
-  background-color: #f5913e;
+  background-color: #fcc300;
 }
 
 .calculator_container {
@@ -36,6 +36,8 @@
   line-height: 70px;
   font-weight: 900;
   text-align: center;
+  color: #555558;
+  box-shadow: 0 3px 4px #646669;
 }
 
 .zero {
