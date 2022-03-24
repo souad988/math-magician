@@ -2,10 +2,18 @@
 
 This project is a Javascript web App that simulates math calculators, built using React js framework .
 
+![screenshot](https://user-images.githubusercontent.com/59707859/159930552-54b2d49a-9eaa-4a9c-ab6b-30021d7edaa5.PNG)
+
+
+![screenshot_calc](https://user-images.githubusercontent.com/59707859/159930441-2dfd04b9-cff5-40c0-aab2-9612220e233f.PNG)
+
+
 ## Built With
 
-
 -React js
+
+##Live demo link
+- https://shielded-beach-40345.herokuapp.com/
 
 ## Getting Started
 
@@ -13,7 +21,7 @@ This project is a Javascript web App that simulates math calculators, built usin
 
 - git clone https://github.com/souad988/math-magician.git.
 - cd math-magician.
-- git checkout calculator.
+- git checkout developement.
 - npm install.
 - npm start.
 
@@ -29,7 +37,7 @@ This project is a Javascript web App that simulates math calculators, built usin
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the (https://github.com/souad988/leaderboard/issues).
+Feel free to check the (https://github.com/souad988/math-magician/issues).
 
 ## Show your support
 
