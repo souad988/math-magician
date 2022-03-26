@@ -14,6 +14,7 @@ This project is a Javascript web App that simulates math calculators, built usin
 
 ##Live demo link
 - https://shielded-beach-40345.herokuapp.com/
+- https://verdant-centaur-8afa40.netlify.app/
 
 ## Getting Started
 
