@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -23,7 +23,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
 .App-link {
   color: #61dafb;
 }
@@ -36,4 +35,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.App {
+  min-height: 100vh;
+  width: 100%;
+  background: url('../public/math_background.jpg');
+  background-size: cover;
 }

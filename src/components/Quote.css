@@ -1,0 +1,12 @@
+#quote_container {
+  color: rgb(70, 69, 69);
+  margin-top: 10vh;
+  padding: 8vh 5%;
+  box-shadow: 0 3px 6px #646669, -0 -3px 6px #646669;
+  border: 2px solid #fcc300;
+}
+
+strong {
+  color: #fcc300;
+  text-align: center;
+}
